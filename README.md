@@ -4,6 +4,15 @@
 
 # Bank-System-Database-Simulation-
 
+## About
+
+> Final Project of Database Design
+
+> Under The Supervision of [Dr. Zahra Pourbahman](https://scholar.google.com/citations?user=CCw-ockAAAAJ&hl=en)
+
+> Fall 2023
+
+
 ## Tools
 * SQL Server
 * Python

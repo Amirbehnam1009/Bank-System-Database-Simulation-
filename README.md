@@ -4,6 +4,8 @@
 
 # Bank-System-Database-Simulation-
 
+A simple and user friendly bank system designed using Python and SQL.
+
 ## About
 
 > Final Project of Database Design
@@ -17,9 +19,7 @@
 * SQL Server
 * Python
 
-## Summary
-A simple and user friendly bank system designed using Python and SQL.
-   ### User Abilities
+## User Abilities
    1. Login and Signup
    2. Add multiple bank accounts
    3. View all bank accounts
